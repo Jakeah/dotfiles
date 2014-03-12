@@ -1,0 +1,9 @@
+[user]
+    name = Jake Connors
+    email = jconnors@actionleadsolutions.com
+
+[color]
+    ui = auto
+
+[core]
+    autocrlf = input

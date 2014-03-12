@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/jconnors/projects/leadjet/public/cdn/edu/img/logos/large'
+let g:netrw_dirhist_2='/home/jconnors/projects/leadjet/processors'
+let g:netrw_dirhist_3='/home/jconnors/projects/leadjet/processors/PVM'
+let g:netrw_dirhist_4='/home/jconnors/projects/leadjet/library/ALS/LeadDeliveryManager'

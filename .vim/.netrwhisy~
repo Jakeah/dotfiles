@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/jconnors/projects/leadjet'
+let g:netrw_dirhist_2='/home/jconnors/projects/leadjet/processors'
+let g:netrw_dirhist_3='/home/jconnors/projects/leadjet/processors/templates'
+let g:netrw_dirhist_4='/home/jconnors/projects/leadjet'
+let g:netrw_dirhist_5='/home/jconnors/projects/leadjet/scripts'
+let g:netrw_dirhist_6='/home/jconnors/projects/leadjet/public/services/edu/js'

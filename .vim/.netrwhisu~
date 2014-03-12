@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/jconnors/projects/leadjet/public/myadmin/views'
+let g:netrw_dirhist_2='/home/jconnors/projects/leadjet/public/myadmin'
+let g:netrw_dirhist_3='/home/jconnors/projects/leadjet/public/myadmin/builds'
+let g:netrw_dirhist_4='/home/jconnors/projects/leadjet/public/services/edu/js'
